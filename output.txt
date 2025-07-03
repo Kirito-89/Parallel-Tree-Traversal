@@ -1,0 +1,7 @@
+Vertex 1 discovered by thread 1
+Vertex 2 discovered by thread 2
+Vertex 3 discovered by thread 6
+Vertex 4 discovered by thread 8
+1 2 
+2 3 4 
+The total simulation time is 2501 microseconds
